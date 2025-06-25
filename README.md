@@ -1,2 +1,2 @@
 # Analizador-de-Numeros
-Analizador de Numeros funcional.
+Analizador de Numeros funcional. 💻🧠🔋
